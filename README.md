@@ -1,6 +1,7 @@
 ### Hi there 👋 
-      Here are a few things about me.
 -------------
+
+ Here are a few things about me:
 
 - 🔭 I’m currently working on DESgeo and a few other projects...  I share a philosophy that I read about in an aritcle, 
       but can't find the article so am unable to quote it.  The Philosopy is "Build for Interoperability".
@@ -21,4 +22,3 @@
 -------------
 
 Thank you for dropping by. 
-
