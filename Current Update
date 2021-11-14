@@ -1,3 +1,19 @@
+11.14.2021
+
+Notes from 04.01.2021 redirected to 01.03.2021
+
+Building with DeFi Legos (a few notes from an article)
+  - mix & match tools to make new designs
+  - as of 01.03.2021 there were over 200 projects listed on DeFi Prime 
+      - each project is considered to be a potential block
+  - Classic Examples: 
+      - Maker Dao - Custom Smart Contracts 
+      - Compound - Custom Compound Smart Contracts by utilizing Maker Dao's ecosystem
+      - Zerion - Uniswap, Coinbase Wallet, Compound, Metamask, Trust Wallet, and more
+      - Totle - Kyber, Uniswap, Airswap, Bancor, xDEX, Radar Relay, Open Relay, Shark Relay and more
+
+---
+
 11.13.2021
 
 NFE Creation
