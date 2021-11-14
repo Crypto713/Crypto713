@@ -8,7 +8,7 @@ Building with DeFi Legos (a few notes from an article)
       - each project is considered to be a potential building block
   - Classic Examples: 
       - Maker Dao - Custom Smart Contracts 
-      - Compound - Custom Compound Smart Contracts by utilizing Maker Dao's ecosystem
+      - Compound - Custom Compound Smart Contracts by building on Maker Dao's ecosystem
       - Zerion - Uniswap, Coinbase Wallet, Compound, Metamask, Trust Wallet, and more
       - Totle - Kyber, Uniswap, Airswap, Bancor, xDEX, Radar Relay, Open Relay, Shark Relay and more
 
