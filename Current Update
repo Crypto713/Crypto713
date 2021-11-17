@@ -3,21 +3,23 @@
 11.17.2021
 
 Asset Creation
+Blockchain: Signum
 Name: COINx
 Ticker: COINX
 ID: 18413256797861689145
 Issue Date: 11.17.2021
-Supply: 50,000,000,000
+Supply: 50,000,000,000.0000
 Deccimals: 4
-DEscription: COINx
+Description: COINx 
 
 ---
 
 11.14.2021
 
 NFE Creation
+Blockchain: Signum
 Name: Mr. X's Group
-Name: MXG
+Ticker: MXG
 ID: 17514314480058739134
 Issue Date: 11.14.2021
 Supply: 1000
@@ -46,7 +48,9 @@ The above notes could easily be outdated.  Due Diligence is necessary.
 11.13.2021
 
 NFE Creation
+Blockchain: Signum
 Name: WUVx
+Ticker: WUVX
 ID: 4718062967071130295
 Issue Date: 11.13.2021
 Supply: 10,555,713
