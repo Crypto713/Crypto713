@@ -27,3 +27,7 @@ A number of months ago, I will update that date when I get a chance to dig it ou
 
 Thank you for dropping by.
 I will add more when I get around...
+
+Notes
+01.26.2022 - Recovering from Covid.
+01.27.2022
