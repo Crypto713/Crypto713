@@ -3,7 +3,7 @@
 
  Here are a few things about me:
 
-- 🔭 I’m currently working on DESgeo, MXG, and COINx.  I share a philosophy that I read about in an aritcle, 
+- 🔭 I’m currently working on MXG, BRSTx, and USDx.  I share a philosophy that I read about in an aritcle, 
       but can't find the article so am unable to quote it.  The Philosopy is "Build for Interoperability".  I will overlay
       another Philosophy on top of that and it goes by the acronym CANI, which means "Constant and Neverending Improvement.
 
