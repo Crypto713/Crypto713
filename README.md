@@ -3,7 +3,7 @@
 
  Here are a few things about me:
 
-- 🔭 I’m currently working on MXG, BRSTx, and USDx.  I share a philosophy that I read about in an aritcle, 
+- 🔭 I’m currently working on a variety of prjects.  Here is a philosophy that I read about in an aritcle, 
       but can't find the article so am unable to quote it.  The Philosopy is "Build for Interoperability".  I will overlay
       another Philosophy on top of that and it goes by the acronym CANI, which means "Constant and Neverending Improvement.
 
@@ -31,8 +31,10 @@ I will add more when I get around...
 
 
 Notes:
--------------
 
+---
+11.03.2022 - Back in the saddle at mrstx.org.
 
+---
 01.26.2022 - Recovering from Covid.
 
