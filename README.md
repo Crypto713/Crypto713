@@ -23,7 +23,7 @@
 
 Core Philosophy (MishMash):
 
-A number of months ago, I will update that date when I get a chance to dig it out, I became aware of some DeFi info.  Basic stuff really about the DeFi building style being much like snapping lego blocks together.  Basically, the snapping of existing DeFi lego blocks together to create new things (products & services).  The Core Philosophy of those building DeFi in the lego block style is "Build for Interoperability".  I like that Philosphy and also build in that way, it reminds me of Object Oriented Programming.
+Awhile ago I became aware of some DeFi info.  Basic stuff really about a DeFi building style much like snapping lego blocks together.  Basically, the snapping of existing DeFi blocks (tools) together to create new things (products & services).  The Core Philosophy of those building DeFi in this style is "Build for Interoperability".  I like that Philosphy and also build in that way, it reminds me of Object Oriented Programming.
 
 
 Thank you for dropping by.
