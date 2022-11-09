@@ -35,6 +35,12 @@ Notes:
 
 ---
 
+11.09.2022
+
+Created Twitter Profile https://Twitter.com/P212_X due to missing credentials for https://Twitter.com/P212_CO.
+
+---
+
 11.03.2022
 
 Back in the saddle at mrstx.org.
