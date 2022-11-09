@@ -37,9 +37,13 @@ Notes:
 
 11.09.2022
 
-Created Twitter Profile https://Twitter.com/P212_X due to missing credentials for https://Twitter.com/P212_CO.
+Missing credentials for https://Twitter.com/P212_CO.
 
-Modified YouTube channel https://www.YouTube.com/channel/UCTznRe2bAdgARzKiJmKsutg (https://www.YouTube.com/@P212_X).
+===> https://Twitter.com/P212_X
+
+Modified YouTube channel https://www.YouTube.com/channel/UCTznRe2bAdgARzKiJmKsutg.
+
+===> https://www.YouTube.com/@P212_X
 
 ---
 
