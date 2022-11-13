@@ -55,7 +55,9 @@ https://mrstx.org
 
 ---
 
-P212.CO, LLC organized on 10.18.2022
+10.18.2022
+
+P212.CO, LLC organized
 
 https://P212.CO
 
