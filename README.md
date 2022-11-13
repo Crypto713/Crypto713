@@ -57,9 +57,11 @@ https://mrstx.org
 
 P212.CO, LLC organized on 10.18.2022
 
-https://P212.co
+https://P212.CO
 
-Privacy Policy: https://www.mrstx.org/privacy-policy-crypto713
+Privacy Policy: 
+
+https://www.mrstx.org/privacy-policy-crypto713
 
 ---
 
