@@ -25,6 +25,10 @@ Core Philosophy (MishMash):
 
 Awhile ago I became aware of some DeFi info.  Basic stuff really about a DeFi building style much like snapping lego blocks together.  Basically, the snapping of existing DeFi blocks (tools) together to create new things (products & services).  The Core Philosophy of those building DeFi in this style is "Build for Interoperability".  I like that Philosphy and also build in that way, it reminds me of Object Oriented Programming.
 
+Fun Fact:
+
+P212.CO, LLC
+Organized on 10.18.2022
 
 Thank you for dropping by.
 I will add more when I get around...
