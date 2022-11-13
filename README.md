@@ -55,6 +55,11 @@ https://mrstx.org
 
 ---
 
+P212.CO, LLC organized on 10.18.2022
+Privacy Policy: https://www.mrstx.org/privacy-policy-crypto713
+
+---
+
 01.26.2022
 
 Recovering from Covid.
