@@ -15,7 +15,7 @@
 - 👯 I’m always open for collaboration.
 
 - 🤔 I’m looking to collaborate all the time.  I typically work alone, 
-      but prefer to accomplish things as part of a 2-4 person team that's connected to other teams.
+      but prefer to accomplish things as part of a 2-4 person team that's connected to other teams...
 
 - 💬 Ask me about anything & if I have an answer I'll share it.  If I don't have an answer I might be able to find one.
 
