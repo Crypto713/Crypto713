@@ -8,9 +8,8 @@
       "Build for Interoperability".  I will overlay another Philosophy on top of that and it goes by the acronym CANI, which means 
       "Constant and Neverending Improvement.
       
-- 🌱 I’m currently working on/with & learning more about a variety of Blockchains and how to         create new things by working with 3+ at a time.  Sometimes that gets a little chaotic, so       I put together this place to help manage projects & keep things somewhat organized.
-
-
+- 🌱 I’m currently working on/with & learning more about a variety of Blockchains and how to create new things by working with 3+ at a time.  
+      Sometimes that gets a little chaotic, so I put together this place to help manage projects & keep things somewhat organized.
      
 - 👯 I’m always open for collaboration.
 
@@ -45,6 +44,14 @@ I will add more when I get around...
 ---
 
 Notes:
+
+---
+
+11.21.2022
+
+Update
+
+https://github.com/Crypto713/Nightshade-NFTs
 
 ---
 
