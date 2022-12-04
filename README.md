@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything & if I have an answer I'll share it.  If I don't have an answer I might be able to find one.
 
-- 📫 How to reach me:  https://www.mrstx.org 
+- 📫 How to reach me:  https://p212.co
 
 - ⚡ Fun fact: I enjoy taking a cruise in my car to brainstorm & I do a lot of brainstorming.
 
