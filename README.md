@@ -30,10 +30,9 @@ Awhile ago I became aware of some DeFi info.  Basic stuff really about a DeFi bu
 
 Fun Fact:
 
-P212.CO, LLC
-https://p212.co
+P212.CO, LLC organized on 10.18.2022
 
-Organized on 10.18.2022
+https://p212.co
 
 https://github.com/P212-CO
 
