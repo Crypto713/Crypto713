@@ -51,6 +51,8 @@ Notes:
 
 Organizing a DAO
 
+---
+
 11.21.2022
 
 Update
