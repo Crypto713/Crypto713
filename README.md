@@ -47,9 +47,15 @@ Notes:
 
 ---
 
+12.22.2022
+
+DAO & SubDAO organization (Attributes: Name, Purpose, etc.) 
+
+---
+
 12.04.2022
 
-Organizing a DAO
+Organizing DAO
 
 ---
 
